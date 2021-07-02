@@ -62,7 +62,6 @@ const polybiusModule = (function () {
 
 
   function polybius(input, encode = true) {
-    // your solution code here
     
     input = input.toLowerCase();
     let split;
